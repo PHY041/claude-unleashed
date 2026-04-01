@@ -3,6 +3,10 @@
 
 > *"We didn't set out to write a love letter. We set out to analyze source code."*
 
+<p align="center">
+  <img src="cover.png" alt="Claude Unleashed Book Cover" width="320" />
+</p>
+
 ---
 
 **495,000 words. 18 chapters. 7 appendices. Every claim cited from source code.**
