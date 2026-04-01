@@ -32,7 +32,7 @@ The full chapter is **{total_words:,} words** — {remaining_words:,} more words
 - Real stories, real numbers, real techniques
 - Free updates forever
 
-**$39** (or pay what you want, minimum $29)
+**$29.99** (or pay what you want, minimum $19.99)
 
 → **[Buy on Gumroad]({gumroad})**
 

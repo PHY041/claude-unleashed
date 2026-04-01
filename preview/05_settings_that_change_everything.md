@@ -25,7 +25,7 @@ The full chapter is **45,069 words** — 43,069 more words covering:
 - Real stories, real numbers, real techniques
 - Free updates forever
 
-**$39** (or pay what you want, minimum $29)
+**$29.99** (or pay what you want, minimum $19.99)
 
 → **[Buy on Gumroad](https://phy041.gumroad.com/l/claude-unleashed)**
 

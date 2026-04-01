@@ -58,9 +58,9 @@ We read every line. We documented what we found. And we wrote the most comprehen
 
 ## Get the Full Book
 
-**[$39 on Gumroad](https://phy041.gumroad.com/l/claude-unleashed)** — Full PDF + ePub, free updates forever.
+**[$29.99 on Gumroad](https://phy041.gumroad.com/l/claude-unleashed)** — Full PDF + ePub, free updates forever.
 
-Pay what you want (minimum $29).
+Pay what you want (minimum $19.99).
 
 ---
 
