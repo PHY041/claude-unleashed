@@ -8,7 +8,7 @@ import re
 
 SOURCE_DIR = os.path.expanduser("~/Desktop/claude-code-book")
 OUTPUT_DIR = os.path.expanduser("~/Desktop/claude-unleashed-repo/preview")
-GUMROAD_LINK = "https://phy041.gumroad.com/l/claude-unleashed"
+GUMROAD_LINK = "https://phy041.gumroad.com/l/claude_unleashed"
 PREVIEW_WORDS = 2000
 
 TEASER = """

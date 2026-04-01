@@ -18,7 +18,7 @@ The full chapter is **8,451 words** — 6,451 more words covering:
 
 ### Get the Complete Book
 
-**[Claude Unleashed: The Complete Guide to Building With Claude Code](https://phy041.gumroad.com/l/claude-unleashed)**
+**[Claude Unleashed: The Complete Guide to Building With Claude Code](https://phy041.gumroad.com/l/claude_unleashed)**
 
 - 495,000+ words across 18 chapters + 7 appendices
 - Source code citations from all 510,000 lines of leaked Claude Code
@@ -27,7 +27,7 @@ The full chapter is **8,451 words** — 6,451 more words covering:
 
 **$29.99** (or pay what you want, minimum $19.99)
 
-→ **[Buy on Gumroad](https://phy041.gumroad.com/l/claude-unleashed)**
+→ **[Buy on Gumroad](https://phy041.gumroad.com/l/claude_unleashed)**
 
 ---
 
